@@ -1,0 +1,13 @@
+{
+  "name": "discord-status-changer",
+  "version": "1.0.0",
+  "description": "A Discord selfbot that allows you to change your status",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "debug": "^4.4.3",
+    "discord.js-selfbot-v13": "^3.7.1"
+  }
+}
